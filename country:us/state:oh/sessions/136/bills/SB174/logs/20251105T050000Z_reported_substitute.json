@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reported - Substitute",
+    "date": "2025-11-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Senate Judiciary Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 174"
+}

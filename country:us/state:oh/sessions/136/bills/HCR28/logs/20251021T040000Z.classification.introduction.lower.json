@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "Introduced and Referred to Committee",
+    "date": "2025-10-21T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Judiciary Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR 28"
+}
